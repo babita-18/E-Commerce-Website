@@ -2,7 +2,7 @@
 
 # Built-Ecommerce-Website-With-HTML-CSS-JavaScript
 
-[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />](https://youtu.be/P8YuWEkTeuE/)
+[<img alt="Built-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/babita-18/E-Commerce-Website/blob/main/1.mp4" />]
 
 ## About this project
 HERE I BUILT A FULLY RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This website is responsive on all types of devices.
